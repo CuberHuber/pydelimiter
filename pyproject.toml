@@ -30,7 +30,7 @@ classifiers = [
 [tool.poetry.dependencies]
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.16"
+mypy = "^1.17"
 
 wemake-python-styleguide = "^1.1"
 ruff = "^0.11"
