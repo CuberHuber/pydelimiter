@@ -33,7 +33,7 @@ classifiers = [
 mypy = "^1.16"
 
 wemake-python-styleguide = "^1.1"
-ruff = "^0.11"
+ruff = "^0.13"
 
 pytest = "^8.4"
 pytest-cov = "^6.1"
